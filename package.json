@@ -15,7 +15,7 @@
     "express": "~4.15.5",
     "express-fileupload": "^0.4.0",
     "express-validator": "^5.0.3",
-    "helmet": "^3.12.0",
+    "helmet": "^3.23.3",
     "jade": "~1.11.0",
     "js-yaml": "^3.11.0",
     "jsonwebtoken": "^8.2.0",
